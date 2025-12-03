@@ -232,8 +232,8 @@ This project successfully implemented an interpretable, retrieval-grounded legal
 
 ## **8. References**
 
-* Cornell Legal Information Institute. [https://www.law.cornell.edu/](https://www.law.cornell.edu/)
-* Qwen/Qwen2.5-0.5B-Instruct (Hugging Face Model). [https://huggingface.co/Qwen](https://huggingface.co/Qwen)
-* Efficient LLM Fine-Tuning with LoRA [https://medium.com/@raquelhvaz/efficient-llm-fine-tuning-with-lora-e5edb88b64a1)
-* Generation Config Parameters [https://huggingface.co/docs/transformers/main/main_classes/text_generation)
+* https://www.law.cornell.edu/
+* https://huggingface.co/Qwen/
+* https://medium.com/@raquelhvaz/efficient-llm-fine-tuning-with-lora-e5edb88b64a1
+* https://huggingface.co/docs/transformers/main/main_classes/text_generation
 * Class notes and starter code provided by Northeastern CS4100
